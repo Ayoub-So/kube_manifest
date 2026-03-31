@@ -273,8 +273,7 @@ aws ec2 describe-security-groups --group-ids <SG_ID>
 
 ## 📚 Related Documentation
 
-- [Main CI/CD Project Setup](https://github.com/Ayoub-So/CI-CD-EKS-with-GitOps-on-aws)
-- [ArgoCD Setup Guide](https://github.com/Ayoub-So/CI-CD-EKS-with-GitOps-on-aws/blob/main/ARGOCD_SETUP.md)
+- [ArgoCD Setup Guide](https://github.com/Ayoub-So/ArgoCD_setup)
 - [Kubernetes Documentation](https://kubernetes.io/docs/)
 - [ArgoCD Documentation](https://argo-cd.readthedocs.io/)
 
