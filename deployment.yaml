@@ -22,7 +22,7 @@ spec:
       serviceAccountName: default
       containers:
       - name: frost-app
-        image: 566074325882.dkr.ecr.us-east-1.amazonaws.com/devops:395f0c65d1bc3b0c2bf68bbb5722e92fac5433b1
+        image: 566074325882.dkr.ecr.us-east-1.amazonaws.com/devops:1ed82e3465308481eddc38a90c70085264abc431
         imagePullPolicy: Always
         ports:
         - containerPort: 80
